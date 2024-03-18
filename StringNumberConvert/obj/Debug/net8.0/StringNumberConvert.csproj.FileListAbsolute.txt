@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\bin\Debug\net8.0\StringNumberConvert.exe
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\bin\Debug\net8.0\StringNumberConvert.deps.json
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\bin\Debug\net8.0\StringNumberConvert.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\bin\Debug\net8.0\StringNumberConvert.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\bin\Debug\net8.0\StringNumberConvert.pdb
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\obj\Debug\net8.0\StringNumberConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\obj\Debug\net8.0\StringNumberConvert.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\obj\Debug\net8.0\StringNumberConvert.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\obj\Debug\net8.0\StringNumberConvert.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\obj\Debug\net8.0\StringNumberConvert.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\obj\Debug\net8.0\refint\StringNumberConvert.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\obj\Debug\net8.0\StringNumberConvert.pdb
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\obj\Debug\net8.0\StringNumberConvert.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringNumberConvert\obj\Debug\net8.0\ref\StringNumberConvert.dll

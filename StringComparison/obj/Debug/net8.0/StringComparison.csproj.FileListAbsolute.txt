@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\bin\Debug\net8.0\StringComparison.exe
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\bin\Debug\net8.0\StringComparison.deps.json
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\bin\Debug\net8.0\StringComparison.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\bin\Debug\net8.0\StringComparison.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\bin\Debug\net8.0\StringComparison.pdb
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\obj\Debug\net8.0\StringComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\obj\Debug\net8.0\StringComparison.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\obj\Debug\net8.0\StringComparison.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\obj\Debug\net8.0\StringComparison.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\obj\Debug\net8.0\StringComparison.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\obj\Debug\net8.0\refint\StringComparison.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\obj\Debug\net8.0\StringComparison.pdb
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\obj\Debug\net8.0\StringComparison.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringComparison\obj\Debug\net8.0\ref\StringComparison.dll

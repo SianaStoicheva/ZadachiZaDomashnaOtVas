@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\bin\Debug\net8.0\StringVertikal.exe
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\bin\Debug\net8.0\StringVertikal.deps.json
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\bin\Debug\net8.0\StringVertikal.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\bin\Debug\net8.0\StringVertikal.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\bin\Debug\net8.0\StringVertikal.pdb
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\obj\Debug\net8.0\StringVertikal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\obj\Debug\net8.0\StringVertikal.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\obj\Debug\net8.0\StringVertikal.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\obj\Debug\net8.0\StringVertikal.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\obj\Debug\net8.0\StringVertikal.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\obj\Debug\net8.0\refint\StringVertikal.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\obj\Debug\net8.0\StringVertikal.pdb
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\obj\Debug\net8.0\StringVertikal.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\StringVertikal\obj\Debug\net8.0\ref\StringVertikal.dll
