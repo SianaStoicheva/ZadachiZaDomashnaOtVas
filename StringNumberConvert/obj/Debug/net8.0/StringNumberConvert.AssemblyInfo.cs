@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringNumberConvert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf022d29e422ad1d53e7792ff23ca481a9c708cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringNumberConvert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringNumberConvert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

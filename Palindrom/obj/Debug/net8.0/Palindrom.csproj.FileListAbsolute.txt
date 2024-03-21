@@ -1,0 +1,15 @@
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\bin\Debug\net8.0\Palindrom.exe
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\bin\Debug\net8.0\Palindrom.deps.json
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\bin\Debug\net8.0\Palindrom.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\bin\Debug\net8.0\Palindrom.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\bin\Debug\net8.0\Palindrom.pdb
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\obj\Debug\net8.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\obj\Debug\net8.0\Palindrom.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\obj\Debug\net8.0\Palindrom.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\obj\Debug\net8.0\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\obj\Debug\net8.0\Palindrom.sourcelink.json
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\obj\Debug\net8.0\Palindrom.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\obj\Debug\net8.0\refint\Palindrom.dll
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\obj\Debug\net8.0\Palindrom.pdb
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\obj\Debug\net8.0\Palindrom.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\ZadachiDiktuvaniOtVas\Palindrom\obj\Debug\net8.0\ref\Palindrom.dll
